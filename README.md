@@ -1,5 +1,3 @@
-# Comandos de busqueda en castellano
-
 | Commando | Description | Ejemplo |
 | --- | --- | --- |
 | {,} | Con la , sumas filtros | pidgey,chansey  |
