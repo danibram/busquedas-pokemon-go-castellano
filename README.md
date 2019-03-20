@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Busquedas pokemon go castellano
 
-You can use the [editor on GitHub](https://github.com/danibram/busquedas-pokemon-go-castellano/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Lista de comandos en castellano
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| Commando | Description | Ejemplo |
+| --- | --- | --- |
+| , | Con la , sumas filtros | pidgey,chansey  |
+| & | Con la & agrupas los filtros (Pokemon que cumplan los 2 criterios) |  intercambiados & legendario |
+| (NOMBRE) | busqueda por nombre o apodo | flareon |
+| (TIPO) | busqueda por tipo de pokemon | dragón |
+| +(NOMBRE) | poniendo un + delante del pokemon buscas toda la familia | +rattata |
+| (NUMERO DE LA POKEDEX) | Pokemon con ese numero | 151 |
+| pc(NUMERO) | Pokemon con ese pc | pc10 |
+| pc(NUMERO)-(NUMERO) | Pokemon con esos intervalos | pc10-500 |
+| pc-(NUMERO) | Pokemon con pcs mas bajos | pc-15 |
+| pc(NUMERO)- | Pokemon con pcs mas altos | pc10-500 |
+| puntos de salud (NUMERO) | Pokemon con esos puntos de salud | puntos de salud 100 |
+| @(TIPO) | Tipos de ataque del pokemon | @normal |
+| @(ATAQUE) | Pokemon con ese ataque | @rayo hielo |
+| @tiempo atmosférico  | Pokemon potenciados | @tiempo atmosférico |
+| @(NUMERO)(TIPO)  | Ataque 1 2 o 3 por tipo | @1agua,@2agua |
+| !@move  | Que pokemon tienen segundo cargado | !@move |
+| evolucionar  | Que pokemon pueden evolucionar | evolucionar |
+| !evolucionar  | Que pokemon no pueden evolucionar | !evolucionar |
+| objeto  | Que pokemon pueden evolucionar on objeto | objeto |
+| alola  | Pokemon de Alola | alola |
+| bebé  | Pokemon bebés | bebé |
+| legendario  | Pokemon legendarios | legendario |
+| con suerte  | Pokemon con suerte | con suerte |
+| singular  | Pokemon singular | singular |
+| intercambiados  | Pokemon intercambiados | intercambiados |
+| eclosionado  | Pokemon eclosionado | eclosionado |
+| defensor  | Pokemon que estan en gymnasios | defensor |
+| variocolor  | Pokemon shinys o variocolores | variocolor |
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danibram/busquedas-pokemon-go-castellano/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
