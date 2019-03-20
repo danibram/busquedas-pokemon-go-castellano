@@ -11,7 +11,7 @@
 | pc{NUMERO} | Pokemon con ese pc | pc10 |
 | pc{NUMERO}-{NUMERO} | Pokemon con esos intervalos | pc10-500 |
 | pc-{NUMERO} | Pokemon con pcs mas bajos | pc-15 |
-| pc{NUMERO}- | Pokemon con pcs mas altos | pc10-500 |
+| pc{NUMERO}- | Pokemon con pcs mas altos | pc15- |
 | puntos de salud {NUMERO} | Pokemon con esos puntos de salud | puntos de salud 100 |
 | @{TIPO} | Tipos de ataque del pokemon | @normal |
 | @{ATAQUE} | Pokemon con ese ataque | @rayo hielo |
