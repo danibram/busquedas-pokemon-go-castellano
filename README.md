@@ -1,5 +1,3 @@
-## Busquedas pokemon go castellano
-
 # Lista de comandos en castellano
 
 | Commando | Description | Ejemplo |
