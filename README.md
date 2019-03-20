@@ -1,4 +1,4 @@
-## Comandos en castellano
+# Comandos de busqueda en castellano
 
 | Commando | Description | Ejemplo |
 | --- | --- | --- |
