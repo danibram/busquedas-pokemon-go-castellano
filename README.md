@@ -14,7 +14,7 @@
 | @{TIPO} | Tipos de ataque del pokemon | @normal |
 | @{ATAQUE} | Pokemon con ese ataque | @rayo hielo |
 | @tiempo atmosférico  | Pokemon potenciados | @tiempo atmosférico |
-| @{NUMERO}{TIPO}  | Busquedas por primer segundo o tercer ataque | @1agua,@2agua |
+| @{NUMERO}{TIPO}  | Busquedas por tipo del primer segundo o tercer ataque | @1agua,@2agua |
 | !@move  | Que pokemon tienen segundo cargado | !@move |
 | evolucionar  | Que pokemon pueden evolucionar | evolucionar |
 | !evolucionar  | Que pokemon no pueden evolucionar | !evolucionar |
